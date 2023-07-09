@@ -2,7 +2,7 @@
 ---
 Python is a powerful, high-level programming language that is widely used in many different fields, including web development, data science, artificial intelligence, and more. It is known for its simple, easy-to-read syntax, which makes it an ideal choice for beginners and experts alike. In this article, we will explore some of the key features of Python and why it is such a popular choice for programmers.
 
-
+![Python Icon](https://www.python.org/static/img/python-logo@2x.png)
 
 ## Why Python is Popular
 ---
@@ -68,3 +68,26 @@ Python has a variety of built-in functions that can be used to perform a wide ra
 | `int()` | The *int* function is used to convert a value to an integer. |
 | `min()` | The *min* function is used to find the minimum value in a list or a string. |
 | `max()` | The *max* function is used to find the maximum value in a list or a string. |
+
+
+## Conclusion
+---
+Python is a powerful, high-level programming language that is widely used in many different fields. Its simple, easy-to-read syntax makes it an ideal choice for beginners and experts alike, and its large community of developers ensures that there is always support and resources available. With a wide range of libraries available for different tasks, Python is a versatile choice for any programmer.
+As the famous computer scientist, Guido van Rossum, the creator of Python, said:
+
+> Python is an easy-to-use programming language for people who want to express concepts in code. It has a simple syntax, large community, and vast libraries for a variety of tasks. That's why I love it.
+
+
+## Resources
+---
+Here are some helpful resources for learning more about Python:
+
+- Python.org - The official website for Python, with a wealth of information and resources for
+learning the language.
+- [Python for Data Science Handbook] - A free online book that provides a comprehensive
+introduction
+
+
+[//]: # (Reference links)
+[Python website]: <https://www.python.org/downloads>
+[Python for Data Science Handbook]: <https://jakevdp.github.io/PythonDataScienceHandbook/>
