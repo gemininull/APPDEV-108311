@@ -82,10 +82,8 @@ As the famous computer scientist, Guido van Rossum, the creator of Python, said:
 ---
 Here are some helpful resources for learning more about Python:
 
-- Python.org - The official website for Python, with a wealth of information and resources for
-learning the language.
-- [Python for Data Science Handbook] - A free online book that provides a comprehensive
-introduction
+- Python.org - The official website for Python, with a wealth of information and resources for learning the language.
+- [Python for Data Science Handbook] - A free online book that provides a comprehensive introduction
 
 
 [//]: # (Reference links)
